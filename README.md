@@ -133,13 +133,13 @@ http://127.0.0.1:5000/
 ## Team
 
 ### Team Leader
-- **SYED RAHEEM**
+- **GUNNA VENKATA THARUN**
 
 ### Team Members
-- **BATTA VENKATA SAI DHANUSH**
-- **M. BHARATH KUMAR**
-- **GONDIPALLI SAI GANESH**
-- **THARUN BRAMHAM**
+- **THAMBOLI SHAIK AFEOZ**
+- **C JYOSHNA**
+- **SIVA PRASAD**
+- **DASWIKA NIYATHI**
 
 ---
 
